@@ -6,15 +6,15 @@
   "language": "en",
   "notification": false,
   "approval": false,
-  "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "saveState": false,
+  "BOTNAME": "SaiFul",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61556463404418",
+    "saiful45111"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61556463404418",
     ""
   ],
   "OWNER": ["100000959749712"], 
